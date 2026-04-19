@@ -1,6 +1,8 @@
 import discord
 from discord.ext import commands
 import asyncio
+import os
+TOKEN = os.getenv("MTQ5NTQ0MjU1ODIwODQ0MjU4MA.GfWbGV.NuLvE3VrI6RE06W0lYf3HJ48NxJ_3SH7lpnZvM")
 
 # --- CONFIGURAÇÃO ---
 TOKEN = "MTQ5NTQ0MjU1ODIwODQ0MjU4MA.GfWbGV.NuLvE3VrI6RE06W0lYf3HJ48NxJ_3SH7lpnZvM"
